@@ -10,4 +10,4 @@
 ## Отчёт
 [Отчет](Отчет%20по%20ПД.docx)
 
-Проект еще не завершен, отчет по проделанной работе не полный последняя версия доступна по [ссылке](https://drive.google.com/file/d/1pFc53WymZUouj8rnrgxEcFREP7SyVN0h/view?usp=sharing) 
+Проект еще не завершен, отчет по проделанной работе не полный последняя версия доступна по [ссылке](https://github.com/Lexa070301/pd-external-dev-lab-common/blob/master/reports/Отчет%20по%20ПД.docx?raw=true) 
